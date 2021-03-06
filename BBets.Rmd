@@ -64,7 +64,7 @@ hist(saveBank)
 ```{r}
 favstats(saveBank)
 ```
-
+The average amount that Dr. J would make is $17. The amount that he could potentially lose is $108.50, at best he could win $122.50. 
 
 # What size of class makes the 2:1 bet fair?  
 <!--Explain and display the results of your method of coming up with the estimate of professor Brownlows betting profits!-->
@@ -91,6 +91,8 @@ hist(saveBank)
 ```{r}
 favstats(saveBank)
 ```
+
+The class size should be 28 students to make the 2:1 bet fair. 
 
 # In the class and payoff as described what is a 95% confidence interval for Brownlow's earnings?
   
